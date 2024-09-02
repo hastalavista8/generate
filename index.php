@@ -3,7 +3,7 @@
 $urls = [
     'https://sateslot77.info',
     'https://buditogel4d.shop',
-    'https://megaforwinasik.xyz',
+    'https://megaforwingacor.xyz',
     'https://nasgorbetseafood.shop',
     // Add more URLs here
 ];
