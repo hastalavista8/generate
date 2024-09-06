@@ -5,6 +5,7 @@ $urls = [
     'https://megaforwinbet.xyz',
     'https://nasgorbetseafood.store',
     'https://nagaforwinapi.xyz',
+    'https://buditogeljitu.xyz',
     // Add more URLs here
 ];
 
