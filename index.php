@@ -5,7 +5,7 @@ $urls = [
     'https://nasgorbetgacor.xyz',
     'https://nagaforwingacor.store',
     'https://megaforwinbet.online',
-    'https://bimatoto77.xyz',
+    'https://bimatoto.vip',
     // Add more URLs here
 ];
 
