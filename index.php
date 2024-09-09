@@ -4,7 +4,7 @@ $urls = [
     'https://sateslotgacor.info',
     'https://nasgorbetgacor.xyz',
     'https://nagaforwingacor.store',
-    'https://megaforwinbet.online',
+    'https://megaforwinbet.store',
     'https://bimatoto.vip',
     'https://buditogeljitu.store',
     // Add more URLs here
