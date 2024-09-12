@@ -5,7 +5,7 @@ $urls = [
     'https://nasgorbetseafood.online',
     'https://megaforwinbet.pro',
     'https://nagaforwingacor.shop',
-    'https://burungbetsip.one',
+    'https://burungbetoke.xyz',
     'https://bimatoto77.store',
     'https://indrajitugacor.shop',
     'https://buditogel2024.xyz',
