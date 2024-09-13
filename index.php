@@ -7,7 +7,6 @@ $urls = [
     'https://nagaforwingacor.shop',
     'https://plnslotmewah.store',
     'https://bimatoto77.online',
-    'https://burungbetoke.xyz',
     // Add more URLs here
 ];
 
