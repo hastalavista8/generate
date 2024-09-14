@@ -3,7 +3,7 @@
 $urls = [
     'https://sateslotsapi.store',
     'https://nasgorbetseafood.online',
-    'https://megaforwinbet.pro',
+    'https://megaforwinkeren.pro',
     'https://nagaforwingacor.shop',
     'https://plnslotmewah.store',
     // Add more URLs here
